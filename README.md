@@ -53,20 +53,4 @@
 
 ---
 
-### 🐍 Contribution snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SpicesFire/SpicesFire/output/github-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SpicesFire&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
----
-
 <p align="center"><i>Always tinkering — embedded one day, AI the next.</i></p>

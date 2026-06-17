@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://spicesfire.com"><img src="https://img.shields.io/badge/Website-spicesfire.com-9b59b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/kerem-ayd%C4%B1n-g%C3%BCven-308355161/"><img src="https://img.shields.io/badge/LinkedIn-Kerem%20Ayd%C4%B1n%20G%C3%BCven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://spicesfire.itch.io/"><img src="https://img.shields.io/badge/itch.io-SpicesFire-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SpicesFire&label=Profile%20views&color=9b59b6&style=flat" alt="profile views" />
 </p>
 
@@ -43,6 +49,22 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpicesFire&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SpicesFire/SpicesFire/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SpicesFire&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 ---

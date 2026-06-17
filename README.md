@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I'm Spices 👋</h1>
 
 <p align="center">
-  Developer from Turkey 🇹🇷 — I build things with <b>C#</b>, <b>C++</b>, and <b>Arduino</b>,<br/>
-  from game clones and microcontroller hacks to AI tooling.
+  <b>🎮 Game Developer &nbsp;·&nbsp; 💻 Software Developer &nbsp;·&nbsp; 🧠 Prompt Engineer</b>
+</p>
+
+<p align="center">
+  From Turkey 🇹🇷 — I build with <b>C#</b>, <b>C++</b>, and <b>Arduino</b>:<br/>
+  game clones, microcontroller hacks, and AI tooling.
 </p>
 
 <p align="center">

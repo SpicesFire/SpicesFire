@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Spices 👋</h1>
+<h1 align="center">Hi, I'm SpicesFire 👋</h1>
 
 <p align="center">
   <b>🎮 Game Developer &nbsp;·&nbsp; 💻 Software Developer &nbsp;·&nbsp; 🧠 Prompt Engineer</b>
